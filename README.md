@@ -4,6 +4,8 @@
 - 🛠️ Main tools: R
 - 😄 Pronouns: he/him
 
+www.linkedin.com/in/paul-bergeron-27354a181 
+
 <!---
 pbergeron-gh/pbergeron-gh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
