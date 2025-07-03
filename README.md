@@ -5,7 +5,8 @@
 - 😄 Pronouns: he/him
 
 Have a look at my latest "first author" research article ! : https://www.nature.com/articles/s41467-024-53015-9 
-www.linkedin.com/in/paul-bergeron-27354a181 
+
+My LinkedIn: www.linkedin.com/in/paul-bergeron-27354a181 
 
 <!---
 pbergeron-gh/pbergeron-gh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
