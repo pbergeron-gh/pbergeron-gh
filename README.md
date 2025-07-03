@@ -4,6 +4,7 @@
 - 🛠️ Main tools: R
 - 😄 Pronouns: he/him
 
+Have a look at my latest "first author" research article ! : https://www.nature.com/articles/s41467-024-53015-9 
 www.linkedin.com/in/paul-bergeron-27354a181 
 
 <!---
